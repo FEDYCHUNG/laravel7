@@ -1,0 +1,1 @@
+<div>Hello, I'm SubView inside partials folder</div>
